@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="origin" fetch="https://git.coding.net/NoneEasy" review="https://git.coding.net/NoneEasy" />
+    <default remote="origin" revision="master" />
+
+    <project name="repo-host.git" path="projects" />
+    <project name="repo-library1.git" path="projects/library1" />
+    <project name="repo-library2.git" path="projects/library2" />
+    <project name="repo-library3.git" path="projects/library3" />
+    <project name="repo-library4.git" path="projects/library4" />
+</manifest>
