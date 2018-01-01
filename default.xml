@@ -5,8 +5,8 @@
     <default remote="origin" revision="master" />
 
     <project name="repo-host.git" path="projects" />
-    <!--<project name="repo-library1.git" path="projects/library1" />-->
-    <!--<project name="repo-library2.git" path="projects/library2" />-->
-    <!--<project name="repo-library3.git" path="projects/library3" />-->
-    <!--<project name="repo-library4.git" path="projects/library4" />-->
+    <project name="repo-library1.git" path="projects/library1" />
+    <project name="repo-library2.git" path="projects/library2" />
+    <project name="repo-library3.git" path="projects/library3" />
+    <project name="repo-library4.git" path="projects/library4" />
 </manifest>

@@ -12,4 +12,5 @@ repo sync -j8
 repo start --all master
 ```
 4. 代码全部 clone 下来后，将 projects 目录导入 Android Studio；
-5. 打开根目录下的 default.xml，需要开发哪个模块，就将哪个模块的注释解开。
+5. 在根目录下执行 `gradle clean install`；
+6. 打开根目录下的 default.xml，默认所有模块都是放开注释的，需要开发哪个模块，将其他模块注释掉即可。
